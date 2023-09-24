@@ -1,0 +1,9 @@
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uyguama15\uyguama15\bin\Debug\uyguama15.exe.config
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uyguama15\uyguama15\bin\Debug\uyguama15.exe
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uyguama15\uyguama15\bin\Debug\uyguama15.pdb
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uyguama15\uyguama15\obj\Debug\uyguama15.csprojResolveAssemblyReference.cache
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uyguama15\uyguama15\obj\Debug\uyguama15.Form1.resources
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uyguama15\uyguama15\obj\Debug\uyguama15.Properties.Resources.resources
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uyguama15\uyguama15\obj\Debug\uyguama15.csproj.GenerateResource.Cache
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uyguama15\uyguama15\obj\Debug\uyguama15.exe
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uyguama15\uyguama15\obj\Debug\uyguama15.pdb
